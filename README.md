@@ -6,7 +6,9 @@ This is a repository for the project work of Ellen Rieloff.
 To open this Notebook, install python via (Mini)conda and make sure all required packages are installed and active by issuing the following terminal commands:
 
 conda env create -f environment.yml
+
 source activate ERproject
+
 jupyter-notebook SAXS-analysis.ipynb
 
 ## Task for referees
